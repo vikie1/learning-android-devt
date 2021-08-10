@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson Three Layouts</string>
+    <string name="text_view_String">Practising Linear Layout</string>
+    <string name="button_text">Click me I do nothing</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+</resources>

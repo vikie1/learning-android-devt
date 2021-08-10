@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson Four FrameLayout</string>
+    <string name="cloud_text">Cloud security with spring security</string>
+    <string name="additional">(Don\'t forget to use quarkus)</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+</resources>
