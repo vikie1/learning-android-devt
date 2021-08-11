@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Test</string>
+    <string name="cold">Cold</string>
+    <string name="hot">Hot</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+    <string name="text_view">How do you like tea served</string>
+</resources>
