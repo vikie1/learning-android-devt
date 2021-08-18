@@ -10,9 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppName">
         <activity
+            android:name=".PizzaActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".OrderActivity"
             android:label="@string/create_order"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
